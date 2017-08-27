@@ -1,5 +1,5 @@
 <resources>
-    <string name="kakao_app_key">04e00093dfaa1aaa7a02c6702045e25c</string>
+    <string name="kakao_app_key"></string>
     <string name="app_name">My Application</string>
-    <string name="google_map_key">AIzaSyAMAoK7oRpVbya1Umbrfe_bcU7CBJF8JUc</string>
+    <string name="google_map_key"></string>
 </resources>
